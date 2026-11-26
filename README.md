@@ -34,7 +34,7 @@ Your data stays on your PC. Your API key is stored encrypted by Windows and only
 
 ## What's new
 
-Each [release](../../releases) lists what changed. The app shows the same notes before it updates.
+Each [release](https://github.com/Reacien/Simple-MMO-Companion-Hub/releases) lists what changed. The app shows the same notes before it updates.
 
 ## Uninstall
 
